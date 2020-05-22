@@ -11,6 +11,7 @@ Description of files included in this material:
 *	Gold_sims_da.csv: Contains the similarity gold standard for each item, which is the normalized mean similarity score for a given item over all judges. Scores are normalized to a 0-1 range, where 0 denotes the minimum degree of similarity and 1 denotes the maximum degree of similarity.
 
 Author: Nina Schneidermann
+
 Cite: Towards a Gold Standard for Evaluating Danish Word Embeddings
 Schneidermann, N., Hvingelby, R. & Pedersen, Bolette Sandford, 2020, Proceedings of the 12th Language Resources and Evaluation Conference, Marseille 2020. pp. 4756-4765  
 http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.585.pdf
